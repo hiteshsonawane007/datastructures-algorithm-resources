@@ -4,6 +4,7 @@ def linear_search(arr, target):
             return index
     return -1
 
+
 # Example usage
 arr = [1, 3, 5, 7, 9]
 target = 5
